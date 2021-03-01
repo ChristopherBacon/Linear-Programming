@@ -9,7 +9,7 @@ Using the Spotify API &amp; PULP to create a 90 minute noughties playlist. PULP 
 
 - [Project Title](#Linear-Programming-Playlist)
 - [Preview](#Preview)
-- [Data](#Data)
+- [Requirements](#Requirements)
 - [Code](#Code)
 - [Conclusion](#Conclusion)
 
@@ -28,6 +28,10 @@ pip install requirements.txt
 4. Get your Spotify API credentials:
 
 https://developer.spotify.com/documentation/general/guides/authorization-guide/
+
+# Code
+
+1. 
 
 
 
