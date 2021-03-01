@@ -3,4 +3,4 @@ Using the Spotify API &amp; PULP to create a 90 minute noughties playlist. PULP 
 
 # Preview
 
-
+<img src="politweets_screen.png" width="500" height="450">
