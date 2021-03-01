@@ -26,6 +26,7 @@ git https://github.com/ChristopherBacon/Linear-Programming.git
 pip install requirements.txt
 ```
 4. Get your Spotify API credentials:
+
 https://developer.spotify.com/documentation/general/guides/authorization-guide/
 
 
