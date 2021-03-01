@@ -31,7 +31,10 @@ https://developer.spotify.com/documentation/general/guides/authorization-guide/
 
 # Code
 
-1. [Linear Programming Playlist Notebook](https://github.com/ChristopherBacon/Linear-Programming/blob/main/Spotify%20Linear%20Programming%20Playlist.ipynb)
+1. [Linear Programming Playlist Notebook](https://github.com/ChristopherBacon/Linear-Programming/blob/main/Spotify%20Linear%20Programming%20Playlist.ipynb) Notebook contains code to accesss the Spotify API, source playlist data and apply PULP optimisation to find best 00's playlist.
 
+# Conclusion
+
+This was a fun project, the first time that I had accessed Spotify data through the API using the Spoitpy library. Was really good to apply optimization techniques that I had learnt as part of my degree using the python optimization library PULP. However, I might try another project using Sci-Kit optimization module as this takes a lower level approach in that the user defines their matrices before setting up the problem. This is akin to the methods used throughout my OU degree. A future project in the making perhaps or an extension to this one.
 
 
