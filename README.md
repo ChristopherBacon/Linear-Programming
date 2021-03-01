@@ -8,7 +8,7 @@ Using the Spotify API &amp; PULP to create a 90 minute noughties playlist. PULP 
 # Table of Contents
 
 - [Project Title](#Linear-Programming-Playlist)
-- [Installation](#Installation)
+- [Preview](#Preview)
 - [Data](#Data)
 - [Code](#Code)
 - [Conclusion](#Conclusion)
