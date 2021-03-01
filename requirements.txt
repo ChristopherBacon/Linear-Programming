@@ -1,0 +1,6 @@
+pandas==1.0.3
+PuLP==2.1
+regex==2020.11.13
+spotipy==2.16.1
+
+
