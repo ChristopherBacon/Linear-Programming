@@ -31,7 +31,7 @@ https://developer.spotify.com/documentation/general/guides/authorization-guide/
 
 # Code
 
-1. 
+1. [Linear Programming Playlist Notebook](https://github.com/ChristopherBacon/Linear-Programming/blob/main/Spotify%20Linear%20Programming%20Playlist.ipynb)
 
 
 
