@@ -14,3 +14,19 @@ Using the Spotify API &amp; PULP to create a 90 minute noughties playlist. PULP 
 - [Conclusion](#Conclusion)
 
 # Requirements
+
+1. Start by cloning the repository:
+```
+git clone https://github.com/ChristopherBacon/Client-Mailer.git
+cd ClientMailer'
+```
+2. Create a ```python 3.7.3``` environment.
+
+3. Install dependencies
+```
+pip install requirements.txt
+```
+4. To run tests in terminal:
+```
+cd ClientMailer
+pytest
